@@ -1,0 +1,24 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "let's create the first server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "vvs": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salunkevv/first-server.git"
+  },
+  "author": "Vivek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salunkevv/first-server/issues"
+  },
+  "homepage": "https://github.com/salunkevv/first-server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
